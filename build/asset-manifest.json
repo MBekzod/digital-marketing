@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b5a9164c.css",
+    "main.js": "/static/js/main.8bf94e7b.js",
+    "static/media/Inter-Bold.ttf": "/static/media/Inter-Bold.0eaf807b1cf0eceabe0f.ttf",
+    "static/media/Inter-SemiBold.ttf": "/static/media/Inter-SemiBold.6058d3da655fb35169c2.ttf",
+    "static/media/Inter-Medium.ttf": "/static/media/Inter-Medium.3f7acfe50aad7ad68548.ttf",
+    "static/media/Inter-Regular.ttf": "/static/media/Inter-Regular.9ca9ba81e9dcaa12b3a1.ttf",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "static/media/Arrow Carousel.svg": "/static/media/Arrow Carousel.a8e48160330f4b52b750.svg",
+    "main.b5a9164c.css.map": "/static/css/main.b5a9164c.css.map",
+    "main.8bf94e7b.js.map": "/static/js/main.8bf94e7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5a9164c.css",
+    "static/js/main.8bf94e7b.js"
+  ]
+}
